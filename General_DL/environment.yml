@@ -1,0 +1,7 @@
+name: env4DL
+dependencies:
+  - numpy
+  - pandas
+  - keras
+  - matplotlib
+  - tensorflow
