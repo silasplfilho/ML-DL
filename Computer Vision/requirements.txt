@@ -1,0 +1,14 @@
+coverage
+pandas>=0.23.4
+pyJWT
+requests
+seaborn
+scikit-learn
+flake8
+opencv-python
+numpy
+scipy
+matplotlib
+opencv-contrib-python
+tensorflow
+keras
