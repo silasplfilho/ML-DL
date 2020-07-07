@@ -1,4 +1,11 @@
-summary_logs
-General_DL/Deep_Learning_with_TensorFlow/simple-examples.tgz
-General_DL/Deep_Learning_with_TensorFlow/simple-examples/
-.vscode/
+/Silas_Personal_Files/ML & DL/env4test/
+# General_DL/Udemy_BERT_intro/
+General_DL/Udemy_BERT_intro/NLP_with_Bert/
+General_DL/Deep_Learning_on_GPU/
+General_DL/Deep_Learning_with_TensorFlow/
+Udemy_NLP_with_DL/env4test/
+
+summary_logs/
+*yml
+
+*.vscode
