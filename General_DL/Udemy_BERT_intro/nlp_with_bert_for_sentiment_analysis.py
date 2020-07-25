@@ -11,7 +11,7 @@ Original file is located at
 ### Importing the libraries
 """
 
-!pip3 install ktrain
+# !pip3 install ktrain
 
 import os.path
 import numpy as np
