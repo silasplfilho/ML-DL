@@ -5,3 +5,5 @@ dependencies:
   - keras
   - matplotlib
   - tensorflow
+  - pytorch
+  - pylint
